@@ -1,0 +1,98 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "01",
+        "rating": {
+            "number": 4.5
+        },
+        "total_student": 488,
+        "title": "Build Responsive Websites with HTML & CSS",
+        "instructor": {
+            "name": "Melissa Cruz",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://i.ibb.co/HGvrgnT/html-css.jpg",
+        "requirement": "Have access to a computer with internet connection and browser",
+        "details": "If you want to start your career in Web Development, HTML and CSS are essential skills to have because they are foundational languages of the web. HTML stands for Hyper Text Markup Language. In short HTML is a markup language that is used developing web pages. CSS stands for Cascading Style Sheets. In short CSS is a language responsible for layout and styling of the web pages. In this course we will cover both languages from the scratch and by the end of the course become HTML and CSS ninjas by building Responsive Real World Projects."
+    },
+    {
+        "_id": "cd2b53655737cc4077542baea9f8f75d",
+        "category_id": "02",
+        "rating": {
+            "number": 4.5
+        },
+        "total_student": 700,
+        "title": "JavaScript - The Complete Guide",
+        "instructor": {
+            "name": "Jason Harvey",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://i.ibb.co/C1Mtg07/68747470733a2f2f692e6962622e636f2f4e545678316a572f646f776e6c6f61642e6a7067.jpg",
+        "requirement": "No coding experience is necessary to take this course! I take you from beginner to expert! Any computer and OS will work — Windows, macOS or Linux. We will set up your text editor the course. A basic understanding of HTML and CSS is a plus, but not a must! The course includes an HTML and CSS crash course.",
+        "details": "Join the most comprehensive and in-depth JavaScript course and learn JavaScript from the ground up, in great detail with this bestselling course! JavaScript is THE most important programming language you need to learn as a web developer - and with this course, you make sure that you will not miss a single thing you have to know as a JavaScript developer! It's both a complete guide, starting with the core basics of the language, as well as an extensive reference of the JavaScript language and environment, ensuring that both newcomers as well as experienced JavaScript developers get a lot out of this course!"
+    },
+    {
+        "_id": "f06f8cc035b04bd1158e4198281915a3",
+        "category_id": "03",
+        "rating": {
+            "number": 4.5
+        },
+        "total_student": 127,
+        "title": "ReactJS For Biginner to Advance",
+        "instructor": {
+            "name": "Randolph Bowers",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://i.ibb.co/hVRX9y1/logo-og.png",
+        "requirement": "Strong Knowledge of HTML, CSS, JS is Required. ES6 is optional.",
+        "details": "React was released by Facebook's web development team in 2013 as a view library. React is one of the best choices for building modern web applications. React has a slim API, a robust and evolving ecosystem and a great community. In this course we will be learning React by creating various projects.If you want to learn more than just same old tutorial and instead create interesting projects using React.js this course is for you. During the course we will also cover redux-toolkit, which is the latest flavor of good old redux and build an interesting project with it. After each tutorial section we will build few projects to put see theory in action. You are not expected to build all projects, but the more course projects, you will complete the easier it's going to be to build your own applications, since you will know how to implement certain features in react."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "category_id": "04",
+        "rating": {
+            "number": 4.5
+        },
+        "total_student": 488,
+        "title": "PHP for Beginners",
+        "instructor": {
+            "name": "Henrietta Dixon",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://i.ibb.co/M76wjBV/maxresdefault.jpg",
+        "requirement": "Have access to a computer with internet connection and browser. Some HTML and CSS knowledge would be beneficial but the tutor will explain everything as he goes. If you wish to use the downloadable code snippets then you should know how to open a zip file. A functioning PHP development environment of your choice. E.g. Visual Studio Code with MAMP/XAMMP.",
+        "details": "Are you wanting to get into Web development, but are not sure where to start? So maybe you tried out some PHP and MySQL tutorials on Youtube, but found them too hard or outdated, and feel that you need a more comprehensive introduction. Maybe you want to learn how to write PHP the right way.  Secure code, OOP ready, and maximising re-usability as well as finding out about PHP programming standards to adopt and adhere too? Perhaps your boss or client threw you in the deep end with a PHP and MySQL project, and you need to get up to speed with PHP, fast."
+    },
+    {
+        "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+        "category_id": "05",
+        "rating": {
+            "number": 4.5
+        },
+        "total_student": 733,
+        "title": "Data Science and Machine Learning",
+        "instructor": {
+            "name": "Olivia Klein",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://i.ibb.co/q0wF6zQ/AI-vs-Deep-Learning-vs-Machine-Learning-Everything-Youve-Ever-Wanted-to-Know-1-1024x538.png",
+        "requirement": "Some programming experience",
+        "details": "Are you ready to start your path to becoming a Data Scientist! This comprehensive course will be your guide to learning how to use the power of Python to analyze data, create beautiful visualizations, and use powerful machine learning algorithms! Data Scientist has been ranked the number one job on Glassdoor and the average salary of a data scientist is over $120,000 in the United States according to Indeed! Data Science is a rewarding career that allows you to solve some of the world's most interesting problems! This course is designed for both beginners with some programming experience or experienced developers looking to make the jump to Data Science!"
+    },
+    {
+        "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+        "category_id": "06",
+        "rating": {
+            "number": 4.5
+        },
+        "total_student": 300,
+        "title": "Learn C++ Programming.",
+        "instructor": {
+            "name": "Hugh Lamb",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://i.ibb.co/DMP1JYZ/h2917prj7ldo0ow5x5ih.jpg",
+        "requirement": "C++ Compiler and IDE, Like CodeBlocks , Eclipse , Xcode etc. No Programming knowledge required. Course covers C and C++ programming concepts in detail.",
+        "details": "A course designed to teach you cutting edge modern C++ from the absolute beginning all the way to very advanced topics, the topics you need in areas where C++ is used massively in modern times. Want to be a confident game developer? High performance applications in the financial sector, how about powerful software modules on top of which server systems, network infrastructure, database systems, even operating systems themselves run on top of? Well C++ is the dominant language used in these areas and many more! C++ is the programming language even other programming languages and technologies like NodeJS, PHP, Java, JavaScript and many more are written in."
+    }
+]
