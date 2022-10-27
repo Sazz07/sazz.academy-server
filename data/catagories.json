@@ -1,0 +1,32 @@
+[
+    {
+      "id": "01",
+      "name": "HTML & CSS",
+      "img": "https://i.ibb.co/nLKFSJ6/1-l-J32-Bl-l-HWm-NMUSi-Sq17g-Q.png"
+    },
+    {
+      "id": "02",
+      "name": "Javascript",
+      "img": "https://i.ibb.co/P9Jz34F/2048px-Unofficial-Java-Script-logo-2-svg.png"
+    },
+    {
+      "id": "03",
+      "name": "React",
+      "img": "https://i.ibb.co/yWs6ZXN/6412038-s-280-v-4.png"
+    },
+    {
+      "id": "04",
+      "name": "Php",
+      "img": "https://i.ibb.co/x1WsjqT/what-is-php-3-1.png"
+    },
+    {
+      "id": "05",
+      "name": "Machine Learning",
+      "img": "https://i.ibb.co/Tk5qKs0/960x0.jpg"
+    },
+    {
+      "id": "06",
+      "name": "Beginning C++",
+      "img": "https://i.ibb.co/8BZyphV/1822px-ISO-C-Logo-svg.png"
+    }
+  ]
